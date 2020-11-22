@@ -1,7 +1,7 @@
 # API DE CRIPTOMOEDAS
 __PROJETO DESENVOLVIDO NO PORTAL DIGITAL INNOVATION ONE__
 
-Projeto apresentado pela instrutora Barbara 
+Projeto apresentado pela Dev __Bárbara Casac__
 
 _Github : https://github.com/bahcasac_
 
